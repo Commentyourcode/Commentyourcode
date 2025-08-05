@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Commentyourcode
-- 👀 I’m mainly interested in UX and UI design, and my goal is to improve the visual experience in websites.
+- 👋 Hi, I’m @Commentyourcode, a graphic designer, marketing professional, and IT student.
+- 👀 I’m mainly interested in UX and UI design, and my goal is to improve the quality of the visual experience in websites, apps, programs, and even games.
 - 🌱 I’m currently learning front-end development at college and through multiple other sources to aid me, such as W3Schools and CodePen.
+- 
 - 📫 How to reach me https://www.linkedin.com/in/hephaestos-design-7a988b378/
 
 <!---
