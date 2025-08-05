@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Commentyourcode
-- 👀 I’m mainly interested in UX and UI design, and my goal
-- 🌱 I’m currently learning front-end development at college and through multiple other sources to aid me
+- 👀 I’m mainly interested in UX and UI design, and my goal is to improve the visual experience in websites.
+- 🌱 I’m currently learning front-end development at college and through multiple other sources to aid me, such as W3Schools and CodePen.
 - 📫 How to reach me https://www.linkedin.com/in/hephaestos-design-7a988b378/
 
 <!---
