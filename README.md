@@ -7,8 +7,8 @@ Olá! Eu sou José Pedro Cassiano!
   📝 Aperfeiçoando minhas habilidades através do estudo de Javascript e com foco em typescript em seguida<br>
 ________________________
 <div> 
-  <img height="190cm" width="520cm" src=https://github-readme-stats.vercel.app/api?username=Commentyourcode&theme=neon&show_icons=true/>
-  <img height="190cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Commentyourcode&layout=compact&theme=neon&https://github.com/Commentyourcode/github-readme-stats/>
+  <img height="170cm" src=https://github-readme-stats.vercel.app/api?username=Commentyourcode&theme=neon&show_icons=true/>
+  <img height="170cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Commentyourcode&layout=compact&theme=neon&https://github.com/Commentyourcode/github-readme-stats/>
 </div>
 <div style="display: inline-block"><br>
 <img align="center" alt="CYChtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
