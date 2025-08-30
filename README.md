@@ -5,7 +5,7 @@
 - 📝 Aperfeiçoando minhas habilidades com front-end através do estudo de Javascript, e com foco em typescript em seguida
 
 <div> 
-  <img height="180cm" src="https://github-readme.stats.vercel.app/api?username=Commentyourcode&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
+  <img height="180cm" src=https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000/>
 </div>
   
 
